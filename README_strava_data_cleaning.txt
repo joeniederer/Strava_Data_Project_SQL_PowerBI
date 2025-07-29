@@ -1,10 +1,10 @@
-# 🏃‍♂️ Strava Running Data Cleaning: Marathon Goals Project
+# Data Cleaning
 
-This document outlines the data cleaning process applied to a Strava dataset in preparation for marathon training analysis. The aim was to prepare clean, standardized, and relevant data for effective pace and performance evaluation.
+This document outlines the data cleaning process applied to a Strava dataset in preparation for running data diagnostic analysis. The aim was to prepare cleaned, standardised, and relevant data.
 
 ---
 
-## 🔄 Data Cleaning Workflow
+##  Data Cleaning Workflow
 
 1. **Import Data**
 2. **Check for Duplicates**
@@ -16,7 +16,7 @@ This document outlines the data cleaning process applied to a Strava dataset in 
 
 ---
 
-## 1️⃣ Import & Create Working Table
+## 1️ Import & Create Working Table
 
 To preserve the raw data:
 
@@ -41,7 +41,7 @@ FROM (
 WHERE row_nm > 1;
 ```
 
-✅ **No duplicates were found.**
+ **No duplicates were found.**
 
 ---
 
