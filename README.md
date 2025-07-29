@@ -50,3 +50,6 @@ Perform a diagnostic analysis of my running data to determine my current running
 
 ---
 
+## Documentation
+
+- [Data Cleaning Process](README_strava_data_cleaning.md)
