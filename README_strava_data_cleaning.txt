@@ -108,6 +108,20 @@ ALTER COLUMN elapsed_time TYPE time
 USING (elapsed_time || ' seconds')::interval::time;
 ```
 
+Convert: `acitivity_date` from date with data-type text incl. time, to date with data-type data excl. time.
+
+```sql
+SELECT 
+	(STRING_TO_ARRAY(activity_date, ','))[1] AS date
+FROM strava_dates
+
+UPDATE strava_dates
+SET activity_date = (STRING_TO_ARRAY(activity_date, ','))[1]
+
+ALTER TABLE strava_dates
+ALTER COLUMN activity_date TYPE date
+USING activity_date::date
+
 ---
 
 ## 6️⃣ Create Time-Based Metrics
