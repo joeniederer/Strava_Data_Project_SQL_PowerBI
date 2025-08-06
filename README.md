@@ -6,6 +6,8 @@ I have signed up for a marathon in April 2026 and I need a marathon training pla
 
 To make the most effective plan, I want to run a descriptive analysis on my Strava running data to determine my current running level.
 
+Using these findings, I can then start to build a marathon training plan as a future project.
+
 ##  Goal
 
 Perform a descriptive analysis of my running data to determine my current running level.
