@@ -1,10 +1,10 @@
-#  Strava Running Diagnostic Analysis
+#  Strava Running Descriptive Analysis
 
 ##  Project Background
 
 I have signed up for a marathon in April 2026 and I need a marathon training plan.
 
-To make the most effective plan, I want to run a diagnostic analysis on my Strava running data to determine my current running level.
+To make the most effective plan, I want to run a descriptive analysis on my Strava running data to determine my current running level.
 
 ##  Goal
 
