@@ -2,11 +2,11 @@
 
 ##  Project Background
 
-I've been running casually over the past three years. Recently I have signed up for a marathon in April 2026, and now I need a marathon training plan.
+I've been running casually over the past three years, recording all of my runs through the Strava app. Recently I have signed up for a marathon in April 2026, and now I need to start thinking about a marathon training plan.
 
 To make the most effective plan, I want to run a descriptive analysis on my Strava running data to get a view on my current running level.
 
-Using these findings, I can then start to build a marathon training plan as a future project.
+Using these findings, I'll have an accurate baseline to pass on to a running coach, or to start to build a marathon training plan as a future project.
 
 ##  Areas of Focus
 
