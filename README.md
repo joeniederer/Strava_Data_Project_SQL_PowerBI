@@ -43,3 +43,9 @@ Using these findings, I'll have an accurate baseline to pass on to a running coa
 ## Documentation
 
 - [Data Cleaning Process](README_strava_data_cleaning.md)
+
+
+## Data Structure 
+
+
+![Logo](file:///C:/Users/Joe/Downloads/Untitled.png)
