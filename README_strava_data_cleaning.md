@@ -8,9 +8,9 @@ This document outlines the data cleaning process applied to a Strava dataset in 
 
 1. **Import Data**
 2. **Check for Duplicates**
-3. **Standardize User Input**
+3. **Standardise User Input**
 4. **Remove Non-Relevant Data**
-5. **Optimize Data Types**
+5. **Optimise Data Types**
 6. **Create Time-Based Metrics**
 7. **Remove Outliers**
 
