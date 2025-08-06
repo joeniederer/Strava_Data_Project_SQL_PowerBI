@@ -45,7 +45,7 @@ WHERE row_nm > 1;
 
 ---
 
-## 3️⃣ Standardize `activity_name`
+## 3️⃣ Standardise `activity_name`
 
 Strava-generated names like `"Afternoon Run"` are consistent, but user-inputted names vary.
 
