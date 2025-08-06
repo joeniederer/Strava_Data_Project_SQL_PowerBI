@@ -16,6 +16,7 @@ Using these findings, I'll have an accurate baseline to pass on to a running coa
 
 ### 2. Run Type Distribution
 - Overall % distribution of high-effort / low-effort / easy-run
+
   definitions:
     - high-effort: fast pace relative to distance
     - low-effort: non-fast pace relative to distance
@@ -47,5 +48,27 @@ Using these findings, I'll have an accurate baseline to pass on to a running coa
 
 ## Data Structure 
 
+The databse structure consists of one main table (strava_working) and 2 view tables (main_time_effort / time_metrics) which are include transformations.
 
-![Logo](file:///C:/Users/Joe/Downloads/Untitled.png)
+<img width="845" height="773" alt="Untitled" src="https://github.com/user-attachments/assets/50a360ee-dafb-4719-8188-56b558f155b4" />
+
+
+##  Summary of Findings
+
+I've been running since November 2023 (21 months). Over the course of this period I've run a total of 96 times, achieving a total distance of 487.93 km. This averages to 5.08 km per run.
+
+The longest run I have done is 21 km, and the fastest pace I have achieved is 257 seconds/km.
+
+- 37.5% of my runs are run with high effort.
+
+- 15.6% of my runs are run at an deliberate easy pace.
+
+- 46.9% of my runs are run with low effort, but not with a deliberate easy pace.
+  
+
+
+<img width="1242" height="697" alt="image" src="https://github.com/user-attachments/assets/e3d89500-cca1-439c-b933-d47ea9a04d98" />
+
+
+
+
