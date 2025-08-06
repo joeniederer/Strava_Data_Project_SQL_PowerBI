@@ -8,7 +8,7 @@ To make the most effective plan, I want to run a descriptive analysis on my Stra
 
 ##  Goal
 
-Perform a diagnostic analysis of my running data to determine my current running level.
+Perform a descriptive analysis of my running data to determine my current running level.
 
 ##  Areas of Focus
 
