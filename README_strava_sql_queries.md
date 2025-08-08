@@ -4,7 +4,7 @@ This README contains the SQL queries used for analyzing Strava running data in P
 
 ## 1. Volume & Consistency
 
-Total distance run
+### Total distance run
 
 ```sql
 select
@@ -40,7 +40,7 @@ from (
 
 ## 3. Run Type Distribution
 
-    % distribution of run-types
+### % distribution of run-types
 
 ```sql
 with cte as (
@@ -76,8 +76,7 @@ from (
 
 ## 4. Speed & Performance
 
-
-    Average pace on effort types
+### Average pace on effort types
 
 ```sql
 with cte as (
@@ -106,8 +105,7 @@ select
 from cte
 ```
 
-
-Fastest pace achieved
+### Fastest pace achieved
 
 ```sql
 select 
@@ -117,7 +115,7 @@ order by secs_per_km asc
 limit 1
 ```
 
-Fastest 5K by year
+### Fastest 5K by year
 
 ```sql
 select
@@ -139,8 +137,7 @@ from (
 where pace_rank = 1
 ```
 
-
-Fastest 10K by year
+### Fastest 10K by year
 
 ```sql
 select
@@ -162,7 +159,7 @@ from (
 where pace_rank = 1
 ```
 
-Fastest 15K by year
+### Fastest 15K by year
 
 ```sql
 
