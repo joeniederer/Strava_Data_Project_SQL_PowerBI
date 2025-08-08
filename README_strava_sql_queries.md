@@ -74,7 +74,7 @@ from (
 	from cte) as counts
 ```
 
-## 5. Speed & Performance
+## 4. Speed & Performance
 
 
     Average pace on effort types
