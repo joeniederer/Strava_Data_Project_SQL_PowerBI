@@ -53,21 +53,75 @@ The databse structure consists of one main table (strava_working) and 2 view tab
 <img width="845" height="773" alt="Untitled" src="https://github.com/user-attachments/assets/50a360ee-dafb-4719-8188-56b558f155b4" />
 
 
-##  Summary of Findings
+##  Findings
 
 I've been running since November 2023 (21 months). Over the course of this period I've run a total of 96 times, achieving a total distance of 487.93 km. This averages to 5.08 km per run.
 
-The longest run I have done is 21 km, and the fastest pace I have achieved is 257 seconds/km.
+The longest run I have done is 21 km, and the fastest average pace I have achieved is 257 seconds/km (4 minutes 17 seconds/km).
 
-- 37.5% of my runs are run with high effort.
+Both 2023 and 2025 (analysis conducted 08/2025) are incomplete months. Over the complete year of 2024, 41 runs were completed. Following average trend, 2025 is expected to end with ~ 53 runs.
 
-- 15.6% of my runs are run at an deliberate easy pace.
+Run types were categorise in terms of effort, with effort type being categorised by pace relative to distance. However, low effort runs that were run at a deliberate, controlled slow pace are categorised as 'Easy runs'. 
 
-- 46.9% of my runs are run with low effort, but not with a deliberate easy pace.
+  
+
+'High effort' and 'Easy runs' are desirable, whereas 'Low effort' runs are not.
+
   
 
 
-<img width="1242" height="697" alt="image" src="https://github.com/user-attachments/assets/e3d89500-cca1-439c-b933-d47ea9a04d98" />
+- 37.5% of my runs are 'High effort'.
+
+- 15.6% of my runs are 'Easy runs'.
+
+- 46.9% of my runs are 'Low effort'.
+
+<br>
+
+<img width="1426" height="802" alt="image" src="https://github.com/user-attachments/assets/920151ad-9d24-48c0-91aa-04f64b92ebe1" />
+
+<br><br>
+
+Over the course of 21 months, my personal records have improved.
+
+<br>
+
+- The fastest recorded average 5km pace is 281 seconds/km (4 min 41 seconds/km).
+  
+  This is a 12% improvement from the personal record of 2023.
+
+- The fastest recorded average 10km pace is 322 seconds/km (5 min 22 seconds/km).
+  
+  This is a 16% improvement from the personal record of 2023.
+
+- The fastest recorded average 15km pace is 364 seconds/km (6 min 17 seconds/km).
+  
+   This is a 3% improvement from the personal record of 2023.
+
+<br>
+
+10km is my most improved run, whereas my 15km has barely improved.
+
+<br>
+
+<img width="1424" height="801" alt="image" src="https://github.com/user-attachments/assets/0d4e205d-f10c-44fe-a9e9-9a3507d60396" />
+
+
+<br><br>
+
+
+Over the course of 21 months, average cadence per run has increased by roughly 9%, from 139 steps per minute to 152.
+
+Additionally, variation of average cadence has decreased.
+
+This suggests that with each successive month, cadence is increasing and stabilising.
+
+
+<br>
+
+
+<img width="1424" height="800" alt="image" src="https://github.com/user-attachments/assets/8127ff71-846b-4b4e-aa89-bb2f269de34e" />
+
 
 
 
