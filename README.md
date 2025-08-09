@@ -8,6 +8,11 @@ To make the most effective plan, I want to run a descriptive analysis on my Stra
 
 Using these findings, I'll have an accurate baseline to pass on to a running coach, or to start to build a marathon training plan as a future project.
 
+## Documentation
+
+- [Data Cleaning Process](README_strava_data_cleaning.md)
+- [SQL Queries](README_strava_sql_queries.md)
+
 ##  Areas of Focus
 
 ### 1. Volume & Consistency
@@ -40,12 +45,6 @@ Using these findings, I'll have an accurate baseline to pass on to a running coa
 - Handle all data visualisation exclusively in Power BI
 
 ---
-
-## Documentation
-
-- [Data Cleaning Process](README_strava_data_cleaning.md)
-- [SQL Queries](README_strava_sql_queries.md)
-
 
 ## Data Structure 
 
