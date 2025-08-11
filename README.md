@@ -2,7 +2,7 @@
 
 ##  Project Background
 
-I've been running casually over the past three years, recording all of my runs through the Strava app. Recently I have signed up for a marathon in April 2026, and now I need to start thinking about a marathon training plan.
+I've been running casually over the past 21 months, recording all of my runs through the Strava app. Recently I have signed up for a marathon in April 2026, and now I need to start thinking about a marathon training plan.
 
 To make the most effective plan, I want to run a descriptive analysis on my Strava running data to get a view on my current running level.
 
@@ -52,9 +52,11 @@ Using these findings, I'll have an accurate baseline to pass on to a running coa
 
 ## Data Structure 
 
-The databse structure consists of one main table (strava_working) and 2 view tables (main_time_effort / time_metrics) which are include transformations.
+The databse structure consists of 2 main tables (strava_working / strava_cadence) and 2 view tables (main_time_effort / time_metrics) which include transformations.
 
-<img width="845" height="773" alt="Untitled" src="https://github.com/user-attachments/assets/50a360ee-dafb-4719-8188-56b558f155b4" />
+The consistent primary key to link all tables / views is activity_id.
+
+<img width="612" height="663" alt="image" src="https://github.com/user-attachments/assets/393d34a0-c2fb-49f7-98ff-8ed6392a0572" />
 
 
 ##  Findings
@@ -142,7 +144,9 @@ The overall trendline shows a steady cadence increase across activities as well 
 ### Summary & Next Steps
 
 This analysis shows consistent improvements in 10 km pace and cadence stability, with room for growth in longer-distance speed and training session structure.
-To prepare for the marathon, my next steps will be to:
+Basesd on the insights of this analysis project, the pillars of my marathon plan will be:
+
+<br>
 
 Reduce the proportion of low-effort runs.
 
