@@ -22,7 +22,7 @@ Using these findings, I'll have an accurate baseline to pass on to a running coa
 ### 2. Run Type Distribution
 - Overall % distribution of high-effort / low-effort / easy-run
 
-  definitions:
+  Definitions:
     - high-effort: fast pace relative to distance
     - low-effort: non-fast pace relative to distance
     - easy run: deliberate controlled slow pace
@@ -31,6 +31,10 @@ Using these findings, I'll have an accurate baseline to pass on to a running coa
 - Average pace on high-effort runs
 - Fastest pace achieved
 - Fastest 5K / 10K / 15K times
+
+### 4. Cadence Progression & Stability
+- Average cadence
+- Cadence varia
 
 ##  Methodology
 
@@ -55,26 +59,45 @@ The databse structure consists of one main table (strava_working) and 2 view tab
 
 ##  Findings
 
-I've been running since November 2023 (21 months). Over the course of this period I've run a total of 96 times, achieving a total distance of 487.93 km. This averages to 5.08 km per run.
+Over the past 21 months (Nov 2023 – Aug 2025), I recorded 96 runs in Strava, covering 487.93 km — an average of 5.08 km per run. This analysis provides a clear baseline of my current running ability ahead of marathon training for April 2026.
 
-The longest run I have done is 21 km, and the fastest average pace I have achieved is 257 seconds/km (4 minutes 17 seconds/km).
+<br>
 
-Both 2023 and 2025 (analysis conducted 08/2025) are incomplete months. Over the complete year of 2024, 41 runs were completed. Following average trend, 2025 is expected to end with ~ 53 runs.
+### 1. Volume & Consistency
 
-Run types were categorise in terms of effort, with effort type being categorised by pace relative to distance. However, low effort runs that were run at a deliberate, controlled slow pace are categorised as 'Easy runs'. 
+Longest run:
+   
+  -  21 km
+Fastest run:
+   
+-  4:17 min/km (257 sec/km)
 
+Annual totals:
+
+- 2023 – 21 runs (partial year)
+    
+- 2024 – 41 runs (full year)
+    
+- 2025 – On track for ~53 runs (YTD projection)
+<br>
+
+While frequency is improving in 2025, total distance per run has remained stable (~5 km average). Increasing the number of longer runs will be important for marathon preparation.
+
+<br>
+
+### 2. Run Type Distribution
+
+Runs were classified based on pace relative to distance:
+
+  High effort – 37.5% (goal: maintain)
+
+  Intentional-Easy runs – 15.6% (goal: increase)
+
+  Low effort – 46.9% (least desirable, suggests untargeted training)
   
+<br>
 
-'High effort' and 'Easy runs' are desirable, whereas 'Low effort' runs are not.
-
-  
-
-
-- 37.5% of my runs are 'High effort'.
-
-- 15.6% of my runs are 'Easy runs'.
-
-- 46.9% of my runs are 'Low effort'.
+  The high proportion of low-effort runs indicates that nearly half my training volume lacks clear performance or  intent — an area for improvement when building a structured training plan.
 
 <br>
 
@@ -82,47 +105,48 @@ Run types were categorise in terms of effort, with effort type being categorised
 
 <br><br>
 
-Over the course of 21 months, my personal records have improved.
+### 3. Speed & Performance Improvements
+
+Personal records have steadily improved over the analysis period:
+
+5 km – 4:41 min/km (281 sec/km), +12% faster vs 2023
+
+10 km – 5:22 min/km (322 sec/km), +16% faster vs 2023 (largest improvement)
+
+15 km – 6:17 min/km (364 sec/km), +3% faster vs 2023 (smallest improvement)
 
 <br>
 
-- The fastest recorded average 5km pace is 281 seconds/km (4 min 41 seconds/km).
-  
-  This is a 12% improvement from the personal record of 2023.
-
-- The fastest recorded average 10km pace is 322 seconds/km (5 min 22 seconds/km).
-  
-  This is a 16% improvement from the personal record of 2023.
-
-- The fastest recorded average 15km pace is 364 seconds/km (6 min 17 seconds/km).
-  
-   This is a 3% improvement from the personal record of 2023.
+Observation: While short to mid-distance paces have improved significantly, longer-distance pacing remains almost unchanged — highlighting the need to focus on endurance speed.
 
 <br>
 
-10km is my most improved run, whereas my 15km has barely improved.
-
-<br>
-
-<img width="1424" height="801" alt="image" src="https://github.com/user-attachments/assets/0d4e205d-f10c-44fe-a9e9-9a3507d60396" />
-
+<img width="1424" height="801" alt="123b02df-82bd-4d36-865c-34045c14f3ca" src="https://github.com/user-attachments/assets/19c3f5cf-1432-4e92-88bc-a12f2f342888" />
 
 <br><br>
 
+### 4. Cadence Progression & Stability
 
-Over the course of 21 months, average cadence per run has increased by roughly 9%, from 139 steps per minute to 152.
+Average cadence increased from 139 spm (2023) → 143.91 spm (2024) → 152.45 spm (2025) — a 9.6% rise over the 21-month period.
 
-Additionally, variation of average cadence has decreased.
+Variance was highest in 2024 (~38), but dropped sharply in 2025 (~21), indicating improved pacing control and running form consistency.
 
-This suggests that with each successive month, cadence is increasing and stabilising.
-
+The overall trendline shows a steady cadence increase across activities as well as a decrease in variance, suggesting technique improvements and a shift toward more efficient stride patterns.
 
 <br>
 
+<img width="1423" height="799" alt="image" src="https://github.com/user-attachments/assets/52b1474c-8e95-44a0-bbfe-16af1d96d8ec" />
 
-<img width="1424" height="800" alt="image" src="https://github.com/user-attachments/assets/8127ff71-846b-4b4e-aa89-bb2f269de34e" />
+<br><br>
 
+### Summary & Next Steps
 
+This analysis shows consistent improvements in 10 km pace and cadence stability, with room for growth in longer-distance speed and training session structure.
+To prepare for the marathon, my next steps will be to:
 
+Reduce the proportion of low-effort runs.
 
+Increase long-run frequency and distance.
+
+Maintain high cadence while extending endurance.
 
