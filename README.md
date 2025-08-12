@@ -69,7 +69,8 @@ Over the past 21 months (Nov 2023 – Aug 2025), I recorded 96 runs in Strava, c
 
 Longest run:
    
-  -  21 km
+-  21 km
+
 Fastest run:
    
 -  4:17 min/km (257 sec/km)
