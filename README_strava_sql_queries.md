@@ -1,6 +1,6 @@
 # Strava Power BI SQL Queries
 
-This README contains the SQL queries used for analyzing Strava running data in Power BI. Queries are grouped by analytical focus area.
+This README contains the SQL queries used for analysing Strava running data in Power BI. Queries are grouped by analytical focus area.
 
 ## 1. Volume & Consistency
 
