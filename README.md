@@ -13,7 +13,7 @@ Using these findings, I'll have an accurate baseline to pass on to a running coa
 - [Data Cleaning Process](README_strava_data_cleaning.md)
 - [SQL Queries](README_strava_sql_queries.md)
 
-##  Areas of Focus
+##  Analytical Focus Areas
 
 ### 1. Volume & Consistency
 - Total distance run
