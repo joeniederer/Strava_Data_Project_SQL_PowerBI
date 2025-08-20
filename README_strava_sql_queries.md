@@ -24,21 +24,7 @@ group by year,month
 order by year,month asc
 ```
 
-## 2. Cadence & Form 
-
-```sql
-select
-	*,
-	round(avg(average_cadence) over (partition by year)) as avg_cadence_year
-from (
-	select 
-		*,
-		extract(year from activity_date) as year
-	from strava_cadence
-	order by 4 asc) as t1
-```
-
-## 3. Run Type Distribution
+## 2. Run Type Distribution
 
 ### % distribution of run-types
 
@@ -74,7 +60,7 @@ from (
 	from cte) as counts
 ```
 
-## 4. Speed & Performance
+## 3. Speed & Performance
 
 ### Average pace on effort types
 
@@ -181,3 +167,18 @@ from (
 		order by secs_per_km asc) as t1) as t2
 where pace_rank = 1
 ```
+
+## 4. Cadence & Form 
+
+```sql
+select
+	*,
+	round(avg(average_cadence) over (partition by year)) as avg_cadence_year
+from (
+	select 
+		*,
+		extract(year from activity_date) as year
+	from strava_cadence
+	order by 4 asc) as t1
+```
+
