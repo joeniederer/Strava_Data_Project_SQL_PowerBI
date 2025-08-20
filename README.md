@@ -32,7 +32,7 @@ Using these findings, I'll have an accurate baseline to pass on to a running coa
 - Fastest pace achieved
 - Fastest 5K / 10K / 15K times
 
-### 4. Cadence Progression & Stability
+### 4. Cadence & Forn
 - Average cadence
 - Cadence varia
 
