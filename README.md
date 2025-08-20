@@ -128,7 +128,7 @@ Observation: While short to mid-distance paces have improved significantly, long
 
 <br><br>
 
-### 4. Cadence Progression & Stability
+### 4. Cadence & Form
 
 Average cadence increased from 139 spm (2023) → 143.91 spm (2024) → 152.45 spm (2025) — a 9.6% rise over the 21-month period.
 
